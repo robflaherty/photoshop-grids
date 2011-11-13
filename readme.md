@@ -1,5 +1,5 @@
 # Photoshop Grids
-PSDs with grids for various screen sizes. 
+A collection of grid template PSDs for various screen sizes. 
 
 * All grids based on 12 columns
 * Gutters are on the large size, ranging from 44% - 57% of column width
