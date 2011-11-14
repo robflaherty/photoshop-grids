@@ -1,5 +1,5 @@
 # Photoshop Grids
-A collection of grid template PSDs for various screen sizes. Currently includes templates for: iPad landscape orientation, iPad portrait orientation, and iPhone portrait orientation (Retina display). 
+A collection of grid template PSDs for various screen sizes. Currently includes templates for: iPad, iPhone, and Desktop screens.
 
 ## Overview
 * All grids based on 12 columns
@@ -26,3 +26,16 @@ A collection of grid template PSDs for various screen sizes. Currently includes 
 * 640x960
 * Columns: 36px
 * Gutters: 16px
+
+### Desktop
+#### Standard
+* 972px wide
+* Columns: 55px
+* Gutters: 24px
+
+#### Widescreen
+* 1144px wide
+* Columns: 65px
+* Gutters: 28px
+
+
