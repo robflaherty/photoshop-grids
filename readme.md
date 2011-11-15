@@ -55,4 +55,8 @@ A collection of grid template PSDs for various screen sizes. Currently includes 
 ## Help make it better
 Feedback, criticism, ideas, and contributions are more than welcome!
 
+## Changelog
+* v0.1 - 11/15/2011 - Initial release
+
+
 
