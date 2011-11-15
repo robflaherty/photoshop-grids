@@ -1,7 +1,9 @@
 # Photoshop Grids
 A collection of grid template PSDs for various screen sizes. Currently includes templates for: iPad, iPhone, and Desktop screens.
 
-## Overview
+**[View the Project Page](http://www.ravelrumba.com/photoshop-grids/)**
+
+## Quick overview
 * All grids based on 12 columns
 * Gutters are on the large size, ranging from 44% - 57% of column width
 * Outer gutters built in. (1024px-wide iPad landscape grid has a content area of 968px)
@@ -49,5 +51,8 @@ A collection of grid template PSDs for various screen sizes. Currently includes 
 * 640px wide
 * Columns: 60px
 * Gutters: 20px
+
+## Help make it better
+Feedback, criticism, ideas, and contributions are more than welcome!
 
 
