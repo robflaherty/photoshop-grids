@@ -38,4 +38,11 @@ A collection of grid template PSDs for various screen sizes. Currently includes 
 * Columns: 65px
 * Gutters: 28px
 
+### Email
+#### Standard
+* 8 Columns
+* 640px wide
+* Columns: 60px
+* Gutters: 20px
+
 
